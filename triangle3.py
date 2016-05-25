@@ -1,6 +1,6 @@
 #triangle3.py
 #This program uses functions to draw a triangle so that its area and perimeter can be calculated and displayed
-#by: Paul Chifita
+#by Paul Chifita
 
 import math
 from graphics import*
